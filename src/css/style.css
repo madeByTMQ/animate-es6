@@ -1,0 +1,14 @@
+
+body {
+	font-family: Helvetica, sans-serif;
+  color: #333;
+  margin: 0;
+}
+
+.animate {
+	background-color: #eee;
+	width: 50px;
+	position: absolute;
+	padding: 5px;
+	left: 100px;
+}
